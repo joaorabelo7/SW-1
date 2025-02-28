@@ -1,0 +1,19 @@
+.box1{
+    background-color: rgb(145, 145, 145);
+    width: 20%;
+    height: 2em;
+}
+.box2{
+    background-color: rgb(145, 145, 145);
+    width: 20%;
+    height: 2em;
+}
+
+.submit-btn{
+    color: white;
+    background-color: rgb(61, 61, 61);
+}
+.back-btn-php{
+    background-color: grey;
+    width: 20%;
+}
