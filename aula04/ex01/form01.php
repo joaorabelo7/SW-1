@@ -9,9 +9,9 @@
 
 <form  action="process01.php"  method="get" >
     <p>Type your name: <input type="text" name="bxname" id="" required></p>
-    <p>Type first note: <input type="number" name="n1" id=""  min="0" max="10"></p>
-    <p>Type second note: <input type="number" name="n2" id="" min="0" max="10"></p>
-    <p>Type third note: <input type="number" name="n3" id="" min="0" max="10"></p>
+    <p>Type first note: <input type="number" name="n1" id=""  min="0" max="10" required></p>
+    <p>Type second note: <input type="number" name="n2" id="" min="0" max="10" required></p>
+    <p>Type third note: <input type="number" name="n3" id="" min="0" max="10" required></p>
     <input type="submit" value="SUBMIT">
 </form>
     

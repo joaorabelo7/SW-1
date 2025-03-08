@@ -7,9 +7,9 @@
 </head>
 <body>
 <form action="process02.php" method="get">
-    <p>Type first number: <input type="number" name="n1" id=""></p>
-    <p>Type second number: <input type="number" name="n2" id=""></p>
-    <p>Type third number: <input type="number" name="n3" id="" ></p>
+    <p>Type first number: <input type="number" name="n1" id="" required></p>
+    <p>Type second number: <input type="number" name="n2" id="" required></p>
+    <p>Type third number: <input type="number" name="n3" id="" required></p>
     <input type="submit" value="SUBMIT">
 </form>
     
