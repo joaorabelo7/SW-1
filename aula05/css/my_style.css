@@ -1,0 +1,21 @@
+.figure {
+    display: flex;
+    justify-content: center; /* Centraliza a imagem horizontalmente */
+    align-items: center;     /* Garante que o conteúdo (imagem) esteja centralizado verticalmente */
+    margin: 0;               /* Remove qualquer margem extra da figura */
+}
+
+.figure-img {
+    max-width: 50%;  /* Define o tamanho máximo da imagem */
+    height: auto;    /* Mantém a proporção da imagem */
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+}
+
+.custom-arrow {
+    font-size: 40px; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold; /* Torna a seta mais grossa */
+    transform: scale(1.5); /* Aumenta a espessura do ícone */}
