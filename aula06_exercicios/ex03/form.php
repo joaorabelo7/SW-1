@@ -8,6 +8,12 @@
 
 
 <style>
+    table{
+        border: 3px solid black;
+    }
+    tr,td,th{
+        border: 2px solid black;
+    }
     tr{
         background-color :rgb(224, 145, 198);
     }
